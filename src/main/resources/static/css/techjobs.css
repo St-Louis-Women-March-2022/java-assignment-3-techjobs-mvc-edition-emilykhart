@@ -7,7 +7,8 @@ td, th {
 }
 
 th {
-    text-align: center;
+    text-align: left;
+    color: blue;
 }
 
 td {
@@ -15,7 +16,7 @@ td {
 }
 
 tr:nth-child(odd) {
-    background-color: #e4e4e4;
+    background-color: pink;
 }
 
 .centeredTable {
